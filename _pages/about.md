@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+![](../images/wasdns.jpg)
+
 ## About me
 
 I am a undergraduate student in the [College of Mathematics and Computer Science](http://cmcs.fzu.edu.cn/website/f/homepage) at [Fuzhou University](http://www.fzu.edu.cn/).
