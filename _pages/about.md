@@ -18,7 +18,9 @@ My research interests including software-defined networking (SDN), network funct
 
 ### 2019
 
+- October 28, 2019. A paper titled "P4SC: A High Performance and Flexible Framework for Service Function Chain" was accepted by IEEE Access. (Co-first author)
 - October 8, 2019. A paper titled "Design and Implementation of In-Network Gradient Compression for Accelerating Distributed Training of Deep Neural Networks" was accepted by [The Second National Conference on Advanced Computing and Defense](http://cacd.xintongconference.com/zh-CN/web/page?mid=264&pid=Home). (Co-author)
+- May 1, 2019. A paper titled "Design and Implementation of an Experimental Teaching Scheme for the Development of SDN Northbound Applications" was accepted by IEEE ICCSE 2019. (Co-author)
 - Since 2019.02, I joined ACS INNOV lab in ICT, CAS.
 
 ### 2018
