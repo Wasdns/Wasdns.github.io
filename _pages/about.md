@@ -8,13 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year master student of [Key Laboratory of Computer System and Architecture, ICT, CAS](http://english.ict.cas.cn/rh/rd/200908/t20090820_33353.html), and [College of Mathematics and Computer Science](http://cmcs.fzu.edu.cn/website/f/homepage) at [Fuzhou University](http://www.fzu.edu.cn/). 
+I am a master student of N2Sys Lab, Peking University, and [Fuzhou University](http://www.fzu.edu.cn/). 
 My advisors are [Qun Huang](http://huangqundl.github.io/), and Dong Zhang.
-My research interests including software-defined networking (SDN), network function virtualization (NFV), network virtualization (NV), programmable/stateful data plane, network security, network measurement, and so on.
+My research interests include software-defined networking (SDN), network function virtualization (NFV), network virtualization (NV), programmable/stateful data plane, network security, network measurement, and so on.
 For full publication list, please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AJsN-F7mwLtmmveYgPqnvrwz0vssxbPuaRvXt4Mf-xzX8cFlpSDM23Xykt_WeXsYvXQGtMHY9PFcAPlUu53BkheHRCIIgtwHl7V3es07fWh74i_JO4HoVo0&user=ZMdsjDUAAAAJ).
 
 ### 2020
 
+- August 17, 2020. A paper titled "SRA: Switch Resource Aggregation for Application Offloading in Programmable Networks" was accepted by IEEE GLOBECOM 2020 (CCF C). (Co-first author).
+- August 13, 2020. A paper titled "ApproSync: Approximate State Synchronization for Programmable Networks" was accepted by IEEE ICNP 2020 (CCF B). (First author).
+- August 13, 2020. A paper titled "SPEED: Resource-Efficient and High-Performance Deployment for Data Plane Programs" was accepted by IEEE ICNP 2020 (CCF B). (First author).
 - February 9, 2020. A paper titled "FastScale: Fast Scaling Out of Network Functions" was accepted by IEEE INFOCOM WNA Workshop. (First author).
 
 ### 2019
