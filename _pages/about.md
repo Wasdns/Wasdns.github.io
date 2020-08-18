@@ -1,4 +1,4 @@
----
+`---
 permalink: /
 title: "About me"
 excerpt: "About me"
@@ -31,6 +31,6 @@ For full publication list, please visit [Google Scholar](https://scholar.google.
 ### 2018
 
 - November 17, 2018. A paper titled "P4SC: Towards High-Performance Service Function Chain Implementation on the P4-Capable Device" was accepted by [IM 2019](http://im2019.ieee-im.org) (CCF C). (First author).
-- October 19, 2018. A paper titled "PSG: Towards Attack-Free P4 Stateful Data Plane" was accepted by The First National Conference on Advanced Computing and Defense](http://cacd.xintongconference.com/zh-CN/web/page?mid=264&pid=Home). (First author).
+- October 19, 2018. A paper titled "PSG: Towards Attack-Free P4 Stateful Data Plane" was accepted by The First National Conference on Advanced Computing and Defense. (First author).
 - October 11-13, 2018. I attended [The 11th National Conference of Undergraduate on Innovation and Entrepreneurship](http://gjcxcy.bjtu.edu.cn/Index.aspx). [News](http://news.fzu.edu.cn/html/fdyw/2018/10/16/677c41ee-b257-4131-a49b-56815515fb2f.html).
 - July 15, 2018. A paper titled "MATReduce: Towards High-Performance P4 Pipeline by Reducing Duplicate Match Operations" was accepted by [GLOBECOM 2018](http://globecom2018.ieee-globecom.org/) (CCF C). (First author).
