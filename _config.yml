@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Wasdns (Xiang Chen)"
 title_separator          : "-"
 name                     : &name "Wasdns (Xiang Chen)"
-description              : &description "Master student at PKU and FZU"
+description              : &description "Student of PKU and FZU"
 url                      : https://Wasdns.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Wasdns/Wasdns.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xiang Chen"
   avatar           : "profile.png"
-  bio              : "Master student at PKU and FZU"
+  bio              : "Student of PKU and FZU"
   location         : "Beijing, China"
   employer         :
   googlescholar    : #"http://yourfullgooglescholarurl.com"
