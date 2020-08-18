@@ -12,25 +12,25 @@ redirect_from:
 
 ApproSync: Approximate State Synchronization for Programmable Networks.
 
-ICNP, 2020. (AR: 31/184=16.8%)
+IEEE ICNP, 2020. (AR: 31/184=16.8%)
 
 2.**Xiang Chen**, Hongyan Liu, Qun Huang, Peiqiao Wang, Dong Zhang, Haifeng Zhou, Chunming Wu.
 
 SPEED: Scalable and High-Performance Deployment for Data Plane Programs.
 
-ICNP, 2020. (AR: 31/184=16.8%)
+IEEE ICNP, 2020. (AR: 31/184=16.8%)
 
 3.Hongyan Liu, **Xiang Chen**, Qun Huang, Haifeng Zhou, Dong Zhang, Chunming Wu.
 
 SRA: Switch Resource Aggregation for Application Offloading in Programmable Networks.
 
-GLOBECOM, 2020.
+IEEE GLOBECOM, 2020.
 
 4.**Xiang Chen**, Yuxin Chen, Qun Huang, Haifeng Zhou, Dong Zhang, Chunming Wu, Junchi Xing..
 
 FastScale: Fast Scaling Out of Network Functions.
 
-INFOCOM Workshop on Networking Algorithms (WNA), 2020.
+IEEE INFOCOM Workshop on Networking Algorithms (WNA), 2020.
 
 5.Dong Zhang, **Xiang Chen**, Qun Huang, Xiaoyan Hong, Chunming Wu, Haifeng Zhou, Yi Yang, Hongyan Liu.
 
