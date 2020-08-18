@@ -1,7 +1,7 @@
 ---
 permalink: /publication/
-title: "Selected Publications"
-excerpt: "Selected Publications"
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /publications/
