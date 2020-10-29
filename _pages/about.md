@@ -15,7 +15,7 @@ For full publication list, please visit [Google Scholar](https://scholar.google.
 
 ### 2020
 
-- October 16, 2020. I participated the online ICNP 2020 conference and present my two papers in the conference. The video of my presentations can be found [here](https://youtu.be/iw647L1rv8I).
+- October 16, 2020. I participate the online ICNP 2020 conference and present our two papers. The video of my presentations can be found [here](https://youtu.be/iw647L1rv8I).
 - August 17, 2020. A paper titled "SRA: Switch Resource Aggregation for Application Offloading in Programmable Networks" was accepted by IEEE GLOBECOM 2020 (CCF C). (Co-first author).
 - August 13, 2020. A paper titled "ApproSync: Approximate State Synchronization for Programmable Networks" was accepted by IEEE ICNP 2020 (CCF B). (First author). [PDF](https://icnp20.cs.ucr.edu/proceedings/main/ApproSync.pdf)
 - August 13, 2020. A paper titled "SPEED: Resource-Efficient and High-Performance Deployment for Data Plane Programs" was accepted by IEEE ICNP 2020 (CCF B). (First author). [PDF](https://icnp20.cs.ucr.edu/proceedings/main/SPEED.pdf)
