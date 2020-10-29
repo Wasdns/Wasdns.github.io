@@ -15,22 +15,23 @@ For full publication list, please visit [Google Scholar](https://scholar.google.
 
 ### 2020
 
+- October 16, 2020. I participated the online ICNP 2020 conference and present my two papers in the conference. The video of my presentations can be found [here](https://youtu.be/iw647L1rv8I).
 - August 17, 2020. A paper titled "SRA: Switch Resource Aggregation for Application Offloading in Programmable Networks" was accepted by IEEE GLOBECOM 2020 (CCF C). (Co-first author).
-- August 13, 2020. A paper titled "ApproSync: Approximate State Synchronization for Programmable Networks" was accepted by IEEE ICNP 2020 (CCF B). (First author).
-- August 13, 2020. A paper titled "SPEED: Resource-Efficient and High-Performance Deployment for Data Plane Programs" was accepted by IEEE ICNP 2020 (CCF B). (First author).
-- February 9, 2020. A paper titled "FastScale: Fast Scaling Out of Network Functions" was accepted by IEEE INFOCOM WNA Workshop. (First author).
+- August 13, 2020. A paper titled "ApproSync: Approximate State Synchronization for Programmable Networks" was accepted by IEEE ICNP 2020 (CCF B). (First author). [PDF](https://icnp20.cs.ucr.edu/proceedings/main/ApproSync.pdf)
+- August 13, 2020. A paper titled "SPEED: Resource-Efficient and High-Performance Deployment for Data Plane Programs" was accepted by IEEE ICNP 2020 (CCF B). (First author). [PDF](https://icnp20.cs.ucr.edu/proceedings/main/SPEED.pdf)
+- February 9, 2020. A paper titled "FastScale: Fast Scaling Out of Network Functions" was accepted by IEEE INFOCOM WNA Workshop. (First author). [PDF](https://ieeexplore.ieee.org/document/9162751/)
 
 ### 2019
 
 - November 5, 2019. A patent titled "基于软件定义数据平面可编程语言的虚拟网络构建方法" was published.
-- October 28, 2019. A paper titled "P4SC: A High Performance and Flexible Framework for Service Function Chain" was accepted by IEEE Access. (Co-first author).
+- October 28, 2019. A paper titled "P4SC: A High Performance and Flexible Framework for Service Function Chain" was accepted by IEEE Access. (Co-first author). [PDF](https://ieeexplore.ieee.org/abstract/document/8887155)
 - October 8, 2019. A paper titled "Design and Implementation of In-Network Gradient Compression for Accelerating Distributed Training of Deep Neural Networks" was accepted by The Second National Conference on Advanced Computing and Defense. (Co-author).
 - May 1, 2019. A paper titled "Design and Implementation of an Experimental Teaching Scheme for the Development of SDN Northbound Applications" was accepted by IEEE ICCSE 2019. (Co-author).
 - January 1, 2019. A paper titled "Multiple instances mapping of Service Function Chain with parallel Virtual Network Functions" was accepted by Journal of Algorithms & Computational Technology. (Co-author).
 
 ### 2018
 
-- November 17, 2018. A paper titled "P4SC: Towards High-Performance Service Function Chain Implementation on the P4-Capable Device" was accepted by [IM 2019](http://im2019.ieee-im.org) (CCF C). (First author).
+- November 17, 2018. A paper titled "P4SC: Towards High-Performance Service Function Chain Implementation on the P4-Capable Device" was accepted by [IM 2019](http://im2019.ieee-im.org) (CCF C). (First author). [PDF](https://ieeexplore.ieee.org/document/8717843)
 - October 19, 2018. A paper titled "PSG: Towards Attack-Free P4 Stateful Data Plane" was accepted by The First National Conference on Advanced Computing and Defense. (First author).
 - October 11-13, 2018. I attended [The 11th National Conference of Undergraduate on Innovation and Entrepreneurship](http://gjcxcy.bjtu.edu.cn/Index.aspx). [News](http://news.fzu.edu.cn/html/fdyw/2018/10/16/677c41ee-b257-4131-a49b-56815515fb2f.html).
-- July 15, 2018. A paper titled "MATReduce: Towards High-Performance P4 Pipeline by Reducing Duplicate Match Operations" was accepted by [GLOBECOM 2018](http://globecom2018.ieee-globecom.org/) (CCF C). (First author).
+- July 15, 2018. A paper titled "MATReduce: Towards High-Performance P4 Pipeline by Reducing Duplicate Match Operations" was accepted by [GLOBECOM 2018](http://globecom2018.ieee-globecom.org/) (CCF C). (First author). [PDF](https://ieeexplore.ieee.org/document/8647320)
