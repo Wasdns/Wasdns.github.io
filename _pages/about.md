@@ -17,6 +17,7 @@ For full publication list, please visit [Google Scholar](https://scholar.google.
 
 ### 2020
 
+- December 12, 2020. A paper titled "Toward Nearly-Zero-Error Sketching via Compressive Sensing" was accepted by USENIX NSDI 2021 (CCF A). (Co-author).
 - December 5, 2020. A paper titled "MTP: Avoiding Control Plane Overload with Measurement Task Placement" was accepted by IEEE INFOCOM 2021 (CCF A). (First author). 
 - October 16, 2020. I participate the online ICNP 2020 conference and present our two papers. The video of my presentations can be found [here](https://youtu.be/iw647L1rv8I).
 - August 17, 2020. A paper titled "SRA: Switch Resource Aggregation for Application Offloading in Programmable Networks" was accepted by IEEE GLOBECOM 2020 (CCF C). (Co-first author).
