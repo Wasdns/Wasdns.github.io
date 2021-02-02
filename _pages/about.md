@@ -15,6 +15,10 @@ For full publication list, please visit [Google Scholar](https://scholar.google.
 
 ## News
 
+### 2021
+
+- January 29, 2021. A patent titled "一种基于匹配优化的P4流水线性能提升方法" was published.
+
 ### 2020
 
 - December 12, 2020. A paper titled "Toward Nearly-Zero-Error Sketching via Compressive Sensing" was accepted by USENIX NSDI 2021 (CCF A). (Co-author).
