@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a master student of N2Sys Lab, Peking University, and Fuzhou University. 
+I am a final-year master student of N2Sys Lab, Peking University, and Fuzhou University. 
 My advisors are [Qun Huang](http://huangqundl.github.io/), and Dong Zhang.
 My research interests include software-defined networking (SDN), network function virtualization (NFV), network virtualization (NV), programmable/stateful data plane, network security, network measurement, and so on.
 For full publication list, please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AJsN-F7mwLtmmveYgPqnvrwz0vssxbPuaRvXt4Mf-xzX8cFlpSDM23Xykt_WeXsYvXQGtMHY9PFcAPlUu53BkheHRCIIgtwHl7V3es07fWh74i_JO4HoVo0&user=ZMdsjDUAAAAJ).
