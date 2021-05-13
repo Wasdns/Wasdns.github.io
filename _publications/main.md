@@ -14,6 +14,8 @@ MTP: Avoiding Control Plane Overload with Measurement Task Placement.
 
 IEEE INFOCOM 2021. (AR: 252/1266=19.9%)
 
+Awarded with **Best Paper Candidate**!
+
 2.Qun Huang, Siyuan Sheng, **Xiang Chen**, Yungang Bao, Rui Zhang, Yanwei Xu, Gong Zhang.
 
 Toward Nearly-Zero-Error Sketching via Compressive Sensing.
