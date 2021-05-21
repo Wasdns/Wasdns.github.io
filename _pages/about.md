@@ -10,7 +10,7 @@ redirect_from:
 
 I am a final-year master student of N2Sys Lab, Peking University, and Fuzhou University. 
 My advisors are [Qun Huang](http://huangqundl.github.io/), and Dong Zhang.
-My research interests include software-defined networking (SDN), network function virtualization (NFV), network virtualization (NV), programmable/stateful data plane, network security, network measurement, and so on.
+My research interests include programmable networks, network function virtualization (NFV), network virtualization, network security, network measurement, and so on.
 For full publication list, please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AJsN-F7mwLtmmveYgPqnvrwz0vssxbPuaRvXt4Mf-xzX8cFlpSDM23Xykt_WeXsYvXQGtMHY9PFcAPlUu53BkheHRCIIgtwHl7V3es07fWh74i_JO4HoVo0&user=ZMdsjDUAAAAJ).
 
 ## News
@@ -23,10 +23,10 @@ For full publication list, please visit [Google Scholar](https://scholar.google.
 
 ### 2020
 
-- December 12, 2020. A paper titled "Toward Nearly-Zero-Error Sketching via Compressive Sensing" was accepted by USENIX NSDI 2021 (CCF A). (Co-author).
+- December 12, 2020. A paper titled "Toward Nearly-Zero-Error Sketching via Compressive Sensing" was accepted by USENIX NSDI 2021 (CCF A). (Co-author). [PDF](https://www.usenix.org/conference/nsdi21/presentation/huang)
 - December 5, 2020. A paper titled "MTP: Avoiding Control Plane Overload with Measurement Task Placement" was accepted by IEEE INFOCOM 2021 (CCF A). (First author). 
 - October 16, 2020. I participate the online ICNP 2020 conference and present our two papers. The video of my presentations can be found [here](https://youtu.be/iw647L1rv8I).
-- August 17, 2020. A paper titled "SRA: Switch Resource Aggregation for Application Offloading in Programmable Networks" was accepted by IEEE GLOBECOM 2020 (CCF C). (Co-first author).
+- August 17, 2020. A paper titled "SRA: Switch Resource Aggregation for Application Offloading in Programmable Networks" was accepted by IEEE GLOBECOM 2020 (CCF C). (Co-first author). [PDF](https://ieeexplore.ieee.org/document/9322112/)
 - August 13, 2020. A paper titled "ApproSync: Approximate State Synchronization for Programmable Networks" was accepted by IEEE ICNP 2020 (CCF B). (First author). [PDF](https://icnp20.cs.ucr.edu/proceedings/main/ApproSync.pdf)
 - August 13, 2020. A paper titled "SPEED: Resource-Efficient and High-Performance Deployment for Data Plane Programs" was accepted by IEEE ICNP 2020 (CCF B). (First author). [PDF](https://icnp20.cs.ucr.edu/proceedings/main/SPEED.pdf)
 - February 9, 2020. A paper titled "FastScale: Fast Scaling Out of Network Functions" was accepted by IEEE INFOCOM WNA Workshop. (First author). [PDF](https://ieeexplore.ieee.org/document/9162751/)
