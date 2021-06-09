@@ -13,11 +13,13 @@ My advisors are [Qun Huang](http://huangqundl.github.io/), and Dong Zhang.
 My research interests include programmable networks, network function virtualization (NFV), network virtualization, network security, network measurement, and so on.
 For full publication list, please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AJsN-F7mwLtmmveYgPqnvrwz0vssxbPuaRvXt4Mf-xzX8cFlpSDM23Xykt_WeXsYvXQGtMHY9PFcAPlUu53BkheHRCIIgtwHl7V3es07fWh74i_JO4HoVo0&user=ZMdsjDUAAAAJ).
 
+**I'm currently looking for a potential PhD position. Good luck to me!**
+
 ## News
 
 ### 2021
 
-- May 12, 2021. Our paper "MTP: Avoiding Control Plane Overload with Measurement Task Placement" was awarded with the **Best Paper Candidate** of INFOCOM 2021!
+- May 12, 2021. Our paper "MTP: Avoiding Control Plane Overload with Measurement Task Placement" was awarded with the **Best Paper Candidate** of INFOCOM 2021! (13 candidates out of 252 accepted papers out of 1266 submitted papers)
 - April 23, 2021. A paper titled "LightNF: Simplifying Network Function Offloading in Programmable Networks" was accepted by IEEE/ACM IWQoS 2021 (CCF B). (First author). 
 - January 29, 2021. A patent titled "一种基于匹配优化的P4流水线性能提升方法" was published.
 
