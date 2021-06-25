@@ -16,17 +16,19 @@ IEEE INFOCOM 2021. (AR: 252/1266=19.9%)
 
 Awarded with **Best Paper Candidate**!
 
-2.Qun Huang, Siyuan Sheng, **Xiang Chen**, Yungang Bao, Rui Zhang, Yanwei Xu, Gong Zhang.
-
-Toward Nearly-Zero-Error Sketching via Compressive Sensing.
-
-USENIX NSDI, 2021. (AR: 40/255=15.6%)
-
-3.**Xiang Chen**, Qun Huang, Peiqiao Wang, Zili Meng, Hongyan Liu, Yuxin Chen, Dong Zhang, Haifeng Zhou, Boyang Zhou, Chunming Wu.
+2.**Xiang Chen**, Qun Huang, Peiqiao Wang, Zili Meng, Hongyan Liu, Yuxin Chen, Dong Zhang, Haifeng Zhou, Boyang Zhou, Chunming Wu.
 
 LightNF: Simplifying Network Function Offloading in Programmable Networks.
 
 IEEE/ACM IWQoS, 2021. (AR: 64/256=25%)
+
+Awarded with **Best Paper Award**!
+
+3.Qun Huang, Siyuan Sheng, **Xiang Chen**, Yungang Bao, Rui Zhang, Yanwei Xu, Gong Zhang.
+
+Toward Nearly-Zero-Error Sketching via Compressive Sensing.
+
+USENIX NSDI, 2021. (AR: 40/255=15.6%)
 
 4.**Xiang Chen**, Qun Huang, Dong Zhang, Haifeng Zhou, Chunming Wu.
 
